@@ -1,5 +1,11 @@
 {
     "users": [
-        
+        {
+            "id": 3001,
+            "name": "anyakolega",
+            "surname": "danyakaleka",
+            "photo_url": "https://img.championat.com/s/735x490/news/big/l/t/andzhelina-dzholi-obyasnila-pochemu-prakticheski-perestala-snimatsya-v-kino_16958316141064661179.jpg",
+            "balance": 3000
+        }
     ]
 }
