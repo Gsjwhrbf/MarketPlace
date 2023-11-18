@@ -1,5 +1,10 @@
 {
     "users": [
-        
+        {
+            "id": 2222,
+            "name": "wertoquri",
+            "bio": "Охоронець АТБ з Жмеренки",
+            "photo_url": "https://avatars.githubusercontent.com/u/111075377?v=4"
+        }
     ]
 }
